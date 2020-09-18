@@ -1,1 +1,3 @@
 Esse arquivo visa testa minha experiência com o git
+
+Essa outra linha visa confirma alguns parametros
